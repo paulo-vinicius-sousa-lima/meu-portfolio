@@ -1,16 +1,95 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portifólio de Paulo Vinícius Sousa Lima">
-    <meta name="keywords" content="portifólio, paulo vinícius sousa lima">
+    <meta name="description" content="Portfólio de Paulo Vinícius Sousa Lima">
+    <meta name="keywords" content="portfólio, paulo vinícius sousa lima">
     <meta name="author" content="Paulo Vinícius Sousa Lima">
-    <title>Meu portifólio</title>
+    <title>Meu Portfólio</title>
+
+    <!-- Fontes e Estilos -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Source+Code+Pro&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png"> <!-- Ícone do site -->
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script> <!-- FontAwesome para ícones -->
 </head>
+
 <body>
-    <h1>Olá, Mundo!</h1>
-    <h2>Seja muito bem-vindo ao meu portifólio!</h2>
-    <h3>Me conheça melhor conhecendo meus projetos pessoais e acadêmicos.</h3>
+
+    <!-- Cabeçalho -->
+    <header class="header">
+        <div class="header-content">
+            <!-- Imagem redonda ao lado do "Olá Mundo!" -->
+            <div class="image-container">
+                <img src="ft.jpg" alt="Foto de Paulo Vinícius" class="profile-img">
+            </div>
+            <div class="header-text">
+                <h1>Olá, Mundo!</h1>
+                <p>Seja muito bem-vindo ao meu portfólio!</p>
+                <h3>Me conheça melhor através dos meus projetos pessoais e acadêmicos.</h3>
+            </div>
+        </div>
+    </header>
+
+    <!-- Container de conteúdo -->
+    <div class="container">
+
+        <!-- Seção "Sobre Mim" -->
+        <section class="about-me">
+            <h2>Sobre Mim</h2>
+            <p class="justificado">Sou Paulo Vinícius Sousa Lima, estudante de Engenharia de Software na Universidade
+                Católica de Brasília. Tenho experiência em linguagens como C, HTML, CSS, JavaScript e estou em busca de
+                aprimorar minhas habilidades como desenvolvedor full-stack. Apaixonado por criar soluções inovadoras e
+                focado na melhoria contínua.</p>
+        </section>
+
+        <!-- Seção "Projetos" -->
+        <section class="projects">
+            <h2>Projetos</h2>
+            <div class="project-card">
+                <h3>Cultura Hip-Hop</h3>
+                <a href="https://paulo-vinicius-sousa-lima.github.io/cultura-hip-hop/" target="_blank">
+                    <button class="btn">Ver o site no GitHub Pages</button>
+                </a>
+            </div>
+            <div class="project-card">
+                <h3>Oceanos</h3>
+                <a href="https://paulo-vinicius-sousa-lima.github.io/oceanos/" target="_blank">
+                    <button class="btn">Ver o site no GitHub Pages</button>
+                </a>
+            </div>
+        </section>
+
+        <!-- Seção "Contato" -->
+        <section class="contact">
+            <h2>Contato</h2>
+            <p>Entre em contato comigo através das minhas redes sociais ou pelo e-mail:</p>
+            <div class="contact-links">
+                <a href="https://www.linkedin.com/in/paulo-vin%C3%ADcius-sousa-lima-39308424b/" target="_blank">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+                <a href="https://github.com/paulo-vinicius-sousa-lima" target="_blank">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                <a href="https://www.instagram.com/pl.vnz/" target="_blank">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a>
+                <a href="mailto:pauloviniciussousalima15@gmail.com">
+                    <i class="fas fa-envelope"></i> Email
+                </a>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2024 Paulo Vinícius Sousa Lima - Todos os direitos reservados.</p>
+    </footer>
+
 </body>
+
 </html>
