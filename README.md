@@ -19,7 +19,7 @@ Bem-vindo ao meu portfólio! Sou **Paulo Vinícius Sousa Lima**, estudante de En
 ## Como Visualizar
 
 Você pode visualizar o meu portfólio online acessando o seguinte link:  
-[Meu Portfólio](https://paulo-vinicius-sousa-lima.github.io/meu-portifolio/)
+[Meu Portfólio](https://paulo-vinicius-sousa-lima.github.io/meu-portfolio/)
 
 ## Como Contribuir
 
