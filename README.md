@@ -2,12 +2,12 @@
 
 Bem-vindo ao meu portfólio! Sou **Paulo Vinícius Sousa Lima**, estudante de Engenharia de Software na Universidade Católica de Brasília. Este portfólio tem como objetivo apresentar um pouco sobre mim, meus projetos e formas de entrar em contato.
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas  
 
-- **HTML5** - Estruturação da página e conteúdo.
-- **CSS3** - Estilização, responsividade e layout visual.
-- **Font Awesome** - Ícones para redes sociais e links.
-- **Google Fonts** - Fontes personalizadas para melhorar a tipografia do site.
+- **HTML5** - Estruturação da página e conteúdo.  
+- **CSS3** - Estilização, responsividade e layout visual.  
+- **Bootstrap** - Framework para layout responsivo e design moderno.  
+- **Google Fonts** - Fontes personalizadas para melhorar a tipografia do site.  
 - **GitHub Pages** - Hospedagem dos projetos.
 
 ## Funcionalidades
