@@ -6,7 +6,6 @@ Bem-vindo ao meu portfólio! Sou **Paulo Vinícius Sousa Lima**, estudante de En
 
 - **HTML5** - Estruturação da página e conteúdo.  
 - **CSS3** - Estilização, responsividade e layout visual.
-- **JavaScript** - Interatividade na página web.
 - **Bootstrap** - Framework para layout responsivo e design moderno.  
 - **Google Fonts** - Fontes personalizadas para melhorar a tipografia do site.  
 - **GitHub Pages** - Hospedagem dos projetos.
